@@ -33,7 +33,7 @@ I am a **Network Engineer with 12+ years of experience** specializing in designi
 
 ### 📫 Connect with me
 - 💼 **LinkedIn:** [[https://www.linkedin.com/in/anaphatr/]](https://www.linkedin.com/in/anaphatr/)
-- 📧 **Email:** [[อีเมลของคุณ]](godofwarpp@gmail.com)
+- 📧 **Email:** [[godofwarpp@gmail.com]](godofwarpp@gmail.com)
 
 "Automating the world, one packet at a time." 🚀
 
