@@ -27,13 +27,13 @@ I am a **Network Engineer with 12+ years of experience** specializing in designi
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=darkhacked)](https://github.com/FajarKim/github-readme-profile)
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=darkhacked&theme=github_dark&hide=prs%2Cprs_merged%2Cissues%2Ccontributed&border_width=1&revert=false&hide_border=false&hide_stroke=false)](https://github.com/FajarKim/github-readme-profile)
 
 ---
 
 ### 📫 Connect with me
 - 💼 **LinkedIn:** [[https://www.linkedin.com/in/anaphatr/]](https://www.linkedin.com/in/anaphatr/)
-- 📧 **Email:** [[godofwarpp@gmail.com]](godofwarpp@gmail.com)
+- 📧 **Email:** [[anaphat.ram@gmail.com]](anaphat.ram@gmail.com)
 
 "Automating the world, one packet at a time." 🚀
 
